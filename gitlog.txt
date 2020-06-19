@@ -1,0 +1,17 @@
+commit 298f8ed7862f7e0f892a5994b4917f4bab8b8d60
+Author: ananya0809 <ananya.199303010@muj.manipal.edu>
+Date:   Sun Jun 7 14:18:38 2020 +0530
+
+    added gitignore
+
+commit 14e566222d51f69d250ab4d2914a3d6215a2df05
+Author: ananya0809 <ananya.199303010@muj.manipal.edu>
+Date:   Sun Jun 7 13:15:54 2020 +0530
+
+    2 new files
+
+commit 2b5eb10330aec8e503962338fc53825558aecfa5
+Author: ananya0809 <ananya.199303010@muj.manipal.edu>
+Date:   Sun Jun 7 13:08:31 2020 +0530
+
+    first repo:)
