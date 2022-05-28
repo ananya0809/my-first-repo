@@ -24,4 +24,4 @@ I enjoy eating Indian, Chinese and Italian Cuisine:
 
 ### Contact
 
-You can contact me [on email](ananyaagrawal08@gmail.com).
+You can contact me [on email](mailto:ananyaagrawal08@gmail.com).
